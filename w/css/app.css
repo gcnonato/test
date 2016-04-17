@@ -38,7 +38,7 @@ input, textarea  {
 }
 
 body {
-    /* margin: 0.5rem ; */
-    background: white ;
+    margin: 0.0rem ; 
+    background: black ;
     color: black ;
 }
